@@ -10,5 +10,5 @@ if [ $# -ge 1 ]; then
     output_file=$1
 fi
 echo $output_file
-cat ${SCRIPT_DIR}/sources.list | tee &>${output_file}
+cat ${SCRIPT_DIR}/aliyun_sources.list | tee &>${output_file}
 
