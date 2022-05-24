@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../jf_wrapper"
+		},
+		{
+			"path": "../../.repo/manifests"
+		}
+	],
+	"settings": {}
+}
