@@ -1,13 +1,10 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"path": "jf_wrapper"
 		},
 		{
-			"path": "../../jf_wrapper"
-		},
-		{
-			"path": "../../.repo/manifests"
+			"path": "holiday"
 		}
 	],
 	"settings": {}
