@@ -5,7 +5,18 @@
 		},
 		{
 			"path": "holiday"
+		},
+		{
+			"path": ".repo/manifests"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"${workspaceFolder}/jf_wrapper/python"
+		],
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}/python/",
+			"${workspaceFolder}/jf_wrapper/python"
+		],
+	}
 }
