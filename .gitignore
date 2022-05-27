@@ -1,5 +1,9 @@
+*/
 .repo
-jf_wrapper
-*.temp
 
-
+!holiday/
+!*.code-workspace
+!*.md
+!*.source
+!*.gitignore
+!*.*

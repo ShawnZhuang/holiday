@@ -6,7 +6,7 @@ if [ ! "${is_docker_installed}" ]; then
  exit 2
 fi
 echo "check good: docker is installed"
-docker pull jenkins/jenkins
+# docker pull jenkins/jenkins
 
 docker run -d -p 49001:8080 -v $PWD/jenkins:/var/jenkins_home -t jenkins/jenkins
 
