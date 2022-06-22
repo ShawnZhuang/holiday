@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "holiday"
+        },
+        {
+            "path": "notes"
+        },
+        {
+            "path": "project_helper"
+        },
+        {
+            "path": "jf_wrapper"
+        },
+        {
+            "path": ".repo/manifests"
+        }
+    ],
+    "settings": {
+        "python.autoComplete.extraPaths": [],
+        "python.analysis.extraPaths": [
+            "${workspaceFolder}/python/",
+        ],
+    }
+}
