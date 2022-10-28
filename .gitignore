@@ -1,9 +1,8 @@
-/*
 /.repo
 
-!/holiday
-!/*.code-workspace
-!/*.md
-!/*.source
-!/*.gitignore
+# !/holiday
+# !/*.code-workspace
+# !/*.md
+# !/*.source
+# !/*.gitignore
 # !*.*

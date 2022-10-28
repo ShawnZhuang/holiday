@@ -1,19 +1,19 @@
 {
     "folders": [
         {
-            "path": "holiday"
+            "path": "../holiday"
         },
         {
-            "path": "notes"
+            "path": "../notes"
         },
         {
-            "path": "project_helper"
+            "path": "../project_helper"
         },
         {
-            "path": "jf_wrapper"
+            "path": "../jf_wrapper"
         },
         {
-            "path": ".repo/manifests"
+            "path": "../.repo/manifests"
         }
     ],
     "settings": {

@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "jf_wrapper"
+			"path": "../jf_wrapper"
 		},
 		{
-			"path": "holiday"
+			"path": "../holiday"
 		}
 	],
 	"settings": {
