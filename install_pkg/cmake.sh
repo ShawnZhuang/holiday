@@ -2,6 +2,6 @@ wget -O - https://apt.kitware.com/keys/kitware-archive-latest.asc 2>/dev/null | 
 
 sudo apt-add-repository 'deb https://apt.kitware.com/ubuntu/ bionic main'
 
-sudo apt-get update
+sudo apt-get update  -y
 
-sudo apt-get install cmake
+sudo apt-get -y install cmake
