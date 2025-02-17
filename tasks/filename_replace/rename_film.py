@@ -2,7 +2,7 @@ import os
 import re
 
 # 定义要操作的文件夹路径
-folder_path = '/mnt/c/Users/shawn/Downloads/English_sing_sing/'
+folder_path = '/mnt/c/Users/shawn/Downloads/Kids_Phonics/'
 # 遍历文件夹中的文件
 print("hello world")
 
